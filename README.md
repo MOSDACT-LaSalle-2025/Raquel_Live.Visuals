@@ -24,7 +24,12 @@ Visualización generativa en Processing que transforma la música en arte en tie
   `The City Never Felt So Good [IKjMt_q-jnU].mp3`  
   → Debe estar en la carpeta **`data/`** del sketch de Processing.
 
+> **Consejo**: Si usas otro audio, ajusta los rangos en `analyzeAudio()` para una mejor respuesta.
+
+## 🎬 Demo del proyecto
+<video src="Raquel_Live_Visuals_Demo.MP4" controls width="640"></video>
 
 ## 👤 Autor
 **Raquel Benavides**  
 MOSDACT – La Salle Campus Barcelona  
+
